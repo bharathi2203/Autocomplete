@@ -1,4 +1,4 @@
-# 112TermProject
+# Autocomplete
 
 Beat the Autocomplete: A game where the user competes against the autocomplete AI to complete an incomplete sentence.
 
